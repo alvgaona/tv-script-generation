@@ -4,7 +4,7 @@ A project from Deep Learning Nanodegree at Udacity.
 In this project you will find a neural network trained to generate a TV
 script based on the TV show Seinfeld aired on July 5, 1989.
 
-![Seinfeld]
+<img src="/images/seinfeld.jpg" width="580" alt="Seinfeld" />
 
 ## Recurrent Neural Networks
 
@@ -83,7 +83,6 @@ george: i think i have to be honest with you. i mean, i just wanted to tell you,
 jerry: i don't know.
 ```
 
-[Seinfeld]: ./images/seinfeld.jpg
 [LSTM Unit]: ./images/lstm_unit.png
 [Training]: ./images/training.png
 [Generated Script]: ./fake_script/generated_script_1.txt
