@@ -14,7 +14,7 @@ steps from way back named _Long Short Term Memory_.
 
 **LSTM Unit**
 
-<img src="/images/lstm_unit.png" width="913" alt="LSTM Unit" />
+<img src="/images/lstm_unit.png" width="650" alt="LSTM Unit" />
 
 
 ## Architecture
