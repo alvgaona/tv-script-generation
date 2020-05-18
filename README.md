@@ -14,7 +14,8 @@ steps from way back named _Long Short Term Memory_.
 
 **LSTM Unit**
 
-![LSTM Unit]
+<img src="/images/lstm_unit.png" width="913" alt="LSTM Unit" />
+
 
 ## Architecture
 
@@ -83,6 +84,6 @@ george: i think i have to be honest with you. i mean, i just wanted to tell you,
 jerry: i don't know.
 ```
 
-[LSTM Unit]: ./images/lstm_unit.png
 [Training]: ./images/training.png
 [Generated Script]: ./fake_script/generated_script_1.txt
+[Preprocessing]: https://github.com/alvgaona/tv-script-generation/blob/master/network/tv_script_generation.ipynb
